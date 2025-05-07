@@ -1,0 +1,6 @@
+artifact_location: file:///Users/shivamrathod/mlops-iris-classifier/mlruns/425848306127126424
+creation_time: 1746219289041
+experiment_id: '425848306127126424'
+last_update_time: 1746219289041
+lifecycle_stage: active
+name: iris-classifier
